@@ -247,4 +247,4 @@ This repository serves as the official landing page for ArchiCAD. The software i
 **Get the most recent version of ArchiCAD today!**
 
 ---
-**Last updated:** 2026-09-09 21:35:19 UTC
+**Last updated:** 2026-09-09 23:58:59 UTC
